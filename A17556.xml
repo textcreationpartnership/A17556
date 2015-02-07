@@ -3682,15 +3682,17 @@ from the inward angle, to the ende of one side, in 12. equall partes: <note plac
             <div type="subsection">
                <pb facs="tcp:23014:28"/>
                <head>Necessary instrumentes, to finde exactly the houre of the day and night, diuerse wayes, with help of this peculiar Kalen<g ref="char:EOLhyphen"/>dar.</head>
-               <figure>
-                  <head>Diall</head>
-               </figure>
-               <figure>
-                  <head>Squire.</head>
-               </figure>
-               <figure>
-                  <head>Staff.</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>Diall</head>
+                  </figure>
+                  <figure>
+                     <head>Squire.</head>
+                  </figure>
+                  <figure>
+                     <head>Staff.</head>
+                  </figure>
+               </p>
                <p>
                   <pb facs="tcp:23014:28"/>
                   <table>
